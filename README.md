@@ -8,14 +8,14 @@
 
 <br/>
 
-<div display="flex">
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=CauanFelipeTavares&show_icons=true&theme=github_dark" height="200px") </img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanFelipeTavares&layout=compact&theme=github_dark" height="200px") </img>
 </div>
 
 <br/>
 
-<div style="display:"flex"; width:"100vw"; justify-content: "space-between";">
+<div style="display: flex; width: 100vw; justify-content: space-between;">
 <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="REACT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="NODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
