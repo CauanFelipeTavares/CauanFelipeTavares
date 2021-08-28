@@ -17,7 +17,7 @@
 
 <div>
 <img alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <p> - </p>
+<img src="https://image.flaticon.com/icons/png/512/860/860821.png">
 <img alt="REACT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <p> - </p>
 <img alt="NODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
