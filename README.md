@@ -7,5 +7,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CauanFelipeTavares&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanFelipeTavares&layout=compact&theme=github_dark)](https://github.com/CauanFelipeTavares/github-readme-stats)  
 
-![JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
