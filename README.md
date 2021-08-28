@@ -21,9 +21,13 @@
 <img alt="REACT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img height="40" width="15" src="https://image.flaticon.com/icons/png/512/860/860821.png">
 <img alt="NODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img height="40" width="15" src="https://image.flaticon.com/icons/png/512/860/860821.png">
 <img alt="EXPRESS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+<img height="40" width="15" src="https://image.flaticon.com/icons/png/512/860/860821.png">
 <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="40" width="15" src="https://image.flaticon.com/icons/png/512/860/860821.png">
 <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="40" width="15" src="https://image.flaticon.com/icons/png/512/860/860821.png">
 <img alt="GIT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
