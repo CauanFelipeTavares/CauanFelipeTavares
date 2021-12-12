@@ -3,7 +3,7 @@
 <h3> Minha Breve História </h3>
 
 <p> 
-  Eu comecei a programar em janeiro de 2021, a tecnologia que tenho foco é o JavaScript onde além de usar a linguagem pura, uso o ReactJS e o NodeJS. Tenho 18 anos, sou cursado em eletrônica e conheço um pouco da programação em Arduino e Esp. Atualmente continuo estudo React, Express e quando estou de bom humor estudo para o vestibular 😅.
+  Eu comecei a programar em janeiro de 2021, a tecnologia que tenho foco é o JavaScript onde além de usar a linguagem pura, uso o ReactJS e o NodeJS. Tenho 18 anos, sou cursado em eletrônica e conheço um pouco da programação em Arduino e Esp. Atualmente continuo estudando React e Node (API's, NestJs...) e de vez em quando um IoT (gosto muito da integração do software com o hardware) 😅.
 </p>
 
 <br/>
